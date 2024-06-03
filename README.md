@@ -43,3 +43,8 @@ And the results after my implementation:
 
 ![Screenshot of the results from my implementation.](/images/results.png)
 
+## References
+Kayhani, Arash, and Dirk V. Arnold. "Design of a surrogate model assisted (1+ 1)-ES." Parallel Problem Solving from Nature–PPSN XV: 15th International Conference, Coimbra, Portugal, September 8–12, 2018, Proceedings, Part I 15. Springer International Publishing, 2018. 
+
+Paper in repository as 'paper.pdf'.
+
